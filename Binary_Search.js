@@ -19,3 +19,5 @@ function searchTarget(N,A,X) {
 }
     return -1
 }
+
+//TC=O(logN)
